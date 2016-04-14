@@ -1,0 +1,14 @@
+.toppart {
+    background-color: rgb(222, 113, 60);
+    min-height: 350px;
+}
+
+.myimage img {
+    border: 14px solid white;
+}
+.aboutme p {
+    font-size: 17px;
+    color: #ECD2D2;
+    font-style: italic;
+    margin-top:15px;
+}
